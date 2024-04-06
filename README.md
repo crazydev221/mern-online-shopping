@@ -46,11 +46,11 @@ In case you want to run it without Docker (requires additional setup):
 ### Steps:
 1. Clone repo on your local machine:
 ```
-$ git clone https://github.com/ivan3123708/fullstack-shopping-cart.git
+$ git clone https://github.com/crazydev221/mern-online-shopping.git
 ```
 2. Run `docker-compose`
 ```
-$ cd fullstack-shopping-cart
+$ cd mern-online-shopping
 $ docker-compose up -d
 ```
 This will pull images and build 3 containers for each part of the application: `frontent`, `backend` & `db`.
